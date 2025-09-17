@@ -1,18 +1,12 @@
-# Group Project
+# Group 3 Activity
 
 ## 📌 Project Overview
 
-This is a collaborative project developed by a team of four students as part of a Git and GitHub learning activity. The objective is to practice using Git branches, pull requests, code reviews, and collaboration workflows on GitHub.
+Group 3's project revolves around mastering Git and GitHub workflows. The goal was to create individual files—`about.md`, `contact.md`, and `bday.md`—each focusing on different personal information. These files were developed in separate branches, then reviewed and merged into the main branch. The project culminated in a detailed `README.md` that outlines the purpose, structure, and instructions for collaboration.
 
-Each team member had a specific role:
-- **Repo Owner**: Created the repository and managed collaborators.
-- **Feature Developer 1**: Worked on Feature A (`about.md`).
-- **Feature Developer 2**: Worked on Feature B (`contact.md`).
-- **Reviewer/Merger**: Reviewed code, managed pull requests, and prepared the `README.md`.
+The process involved:
+- Creating feature branches for each file.
+- Submitting pull requests for review and feedback.
+- Merging changes into the `main` branch for final integration.
 
-The project includes:
-- Separate feature branches for different tasks
-- Pull requests for code review
-- A finalized `main` branch with all features merged
-
-
+This approach ensured smooth collaboration, version control, and a polished final product.
